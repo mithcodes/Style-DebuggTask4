@@ -1,0 +1,15 @@
+
+  .custom-body {
+    height: 100vh; /* Corrected */
+    background-color: aquamarine;
+    width: 100%;display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .container {
+    height: auto;
+    background-color: blue;
+    padding: 40px;
+  }
+  
